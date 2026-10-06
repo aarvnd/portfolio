@@ -1,0 +1,12 @@
+# JetBrains IDE settings
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# macOS metadata
+.DS_Store
